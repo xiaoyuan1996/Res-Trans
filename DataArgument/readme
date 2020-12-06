@@ -1,0 +1,3 @@
+1.通过make_noise_data.py进行噪声数据生成，具体而言，采用两张图片的加和，通过改变权重来生成相应的标签。
+2.通过data_argumentation.py进行噪声数据生成，具体而言，加入了椒盐噪声。
+3.在线数据增强，在Train/dataloader下，我们使用了cut-off、RandomCrop的方法进行数据增强。

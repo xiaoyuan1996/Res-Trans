@@ -1,0 +1,2 @@
+1.讲所有的概率json放置在allRes下
+2.运行ensemble.py, 生成最后提交的submission.csv

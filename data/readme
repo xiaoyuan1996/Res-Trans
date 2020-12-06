@@ -1,0 +1,4 @@
+1.wav_data文件夹 为原始的wav文件。
+2.filter_data文件夹 为滤波后的wav文件。
+3.image_data文件夹 为抽取的频谱图以及最终裁剪后的频谱图。
+4.argumented_data文件夹 为图像增强后的数据。

@@ -1,0 +1,13 @@
+_ | train/1/enh_enh_no36_c_part1_seq2.jpg | 1
+_ | train/1/enh_enh_no36_c_part1_seq3.jpg | 1
+_ | train/1/enh_enh_no36_c_part1_seq4.jpg | 1
+_ | train/1/enh_enh_no36_c_part1_seq5.jpg | 1
+_ | train/1/enh_enh_no36_c_part1_seq6.jpg | 1
+_ | train/2/enh_enh_no36_c_part2_seq43.jpg | 2
+_ | train/2/enh_enh_no36_c_part2_seq45.jpg | 2
+_ | train/3/enh_enh_no36_c_part3_seq10.jpg | 3
+_ | train/3/enh_enh_no36_c_part3_seq11.jpg | 3
+_ | train/3/enh_enh_no36_c_part3_seq12.jpg | 3
+_ | train/4/enh_enh_no36_c_part4_seq38.jpg | 4
+_ | train/4/enh_enh_no36_c_part4_seq39.jpg | 4
+_ | train/4/enh_enh_no36_c_part4_seq40.jpg | 4

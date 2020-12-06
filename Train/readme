@@ -1,0 +1,7 @@
+1.在数据增强之后，生成utilize下的trainB,valB和testB文件，开始进行模型的训练。
+2.可以通过main来更改对应的模型
+3.更改config来修改数据路径及学习率。
+4.capsule和resnext的学习率为0.0005，其它均为0.0012，10个epoch学习率下降0.7倍，80个epoch即可得到结果。
+5.在运行main训练结束后，使用generateSubmit.py生成最后的csv以及对应的概率json，概率json在最后集成时进行使用。
+
+注：你现在就可以直接运行main和generateSubmit,修改dataloader下的数据预处理，经过TTA策略，整合模型单模可达到0.966
