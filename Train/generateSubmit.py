@@ -31,7 +31,7 @@ import mytools
 import warnings
 warnings.filterwarnings("ignore")
 
-# cuda设备检测
+# cuda
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 print("device:",device)
 
